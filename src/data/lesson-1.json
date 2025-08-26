@@ -1,0 +1,80 @@
+[
+  {
+    "id": "q1",
+    "type": "mcq",
+    "prompt": "What does percent mean?",
+    "options": [
+      "Per thousand",
+      "Per hundred",
+      "Per ten",
+      "Per meter"
+    ],
+    "answer_index": 1,
+    "hint": "Think of 100 as the base unit.",
+    "solution": "Percent means 'per hundred'. 50% means 50 out of 100."
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "prompt": "Shade idea: If 50% of a 100-square grid is shaded, how many squares are shaded?",
+    "answer": 50,
+    "tolerance": 0,
+    "hint": "Percent is out of 100.",
+    "solution": "50% of 100 = 50."
+  },
+  {
+    "id": "q3",
+    "type": "mcq",
+    "prompt": "Which is the same as 25%?",
+    "options": [
+      "1/2",
+      "1/4",
+      "0.75",
+      "75/100"
+    ],
+    "answer_index": 1,
+    "hint": "Think of quarters.",
+    "solution": "25% = 25/100 = 1/4 = 0.25."
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "prompt": "What is 10% of 50?",
+    "answer": 5,
+    "tolerance": 0,
+    "hint": "10% is one-tenth.",
+    "solution": "10% of 50 = 50 \u00d7 0.10 = 5."
+  },
+  {
+    "id": "q5",
+    "type": "mcq",
+    "prompt": "Which statement is true?",
+    "options": [
+      "20% of 50 is the same as 50% of 20",
+      "20% of 50 is bigger than 50% of 20",
+      "They are different numbers",
+      "None are true"
+    ],
+    "answer_index": 0,
+    "hint": "Calculate both values.",
+    "solution": "20% of 50 = 10 and 50% of 20 = 10, so they are the same."
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "prompt": "Convert 0.5 to a percentage.",
+    "answer": 50,
+    "tolerance": 0,
+    "hint": "Multiply by 100.",
+    "solution": "0.5 \u00d7 100 = 50%."
+  },
+  {
+    "id": "q7",
+    "type": "numeric",
+    "prompt": "Convert 3/4 to a percentage.",
+    "answer": 75,
+    "tolerance": 0,
+    "hint": "First turn it into a decimal.",
+    "solution": "3/4 = 0.75. 0.75 \u00d7 100 = 75%."
+  }
+]

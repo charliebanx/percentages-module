@@ -1,0 +1,89 @@
+[
+  {
+    "id": "q1",
+    "type": "mcq",
+    "prompt": "Convert 50% to a fraction in simplest form.",
+    "options": [
+      "1/2",
+      "2/3",
+      "5/10",
+      "50/100"
+    ],
+    "answer_index": 0,
+    "hint": "50/100 simplifies.",
+    "solution": "50% = 50/100 = 1/2."
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "prompt": "Convert 25% to a decimal.",
+    "answer": 0.25,
+    "tolerance": 0,
+    "hint": "Divide by 100.",
+    "solution": "25% \u00f7 100 = 0.25."
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "prompt": "Convert 0.2 to a percentage.",
+    "answer": 20,
+    "tolerance": 0,
+    "hint": "Multiply by 100.",
+    "solution": "0.2 \u00d7 100 = 20%."
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "prompt": "Convert 3/5 to a percentage.",
+    "answer": 60,
+    "tolerance": 0,
+    "hint": "3 \u00f7 5 = 0.6.",
+    "solution": "3/5 = 0.6 = 60%."
+  },
+  {
+    "id": "q5",
+    "type": "mcq",
+    "prompt": "Which decimal equals 75%?",
+    "options": [
+      "0.075",
+      "0.75",
+      "7.5",
+      "0.57"
+    ],
+    "answer_index": 1,
+    "hint": "Move the decimal two places left/right appropriately.",
+    "solution": "75% = 75/100 = 0.75."
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "prompt": "Convert 2/25 to a percentage.",
+    "answer": 8,
+    "tolerance": 0,
+    "hint": "2 \u00f7 25 = 0.08.",
+    "solution": "2/25 = 0.08 = 8%."
+  },
+  {
+    "id": "q7",
+    "type": "numeric",
+    "prompt": "Convert 0.37 to a percentage.",
+    "answer": 37,
+    "tolerance": 0,
+    "hint": "Multiply by 100.",
+    "solution": "0.37 \u00d7 100 = 37%."
+  },
+  {
+    "id": "q8",
+    "type": "mcq",
+    "prompt": "Which of the following equals 10%?",
+    "options": [
+      "1/5",
+      "0.01",
+      "1/10",
+      "0.10"
+    ],
+    "answer_index": 2,
+    "hint": "10% is ten out of a hundred.",
+    "solution": "10% = 10/100 = 1/10 = 0.10."
+  }
+]
